@@ -1,6 +1,11 @@
 ## 💻 Math
 
-## 🔗[Demo Project](https://sepehrnekooian.github.io/Age-Js/)
+## 🔗[Demo Math-1](https://sepehrnekooian.github.io/Math/index.arrow.html)
+## 🔗[Demo Math-2](https://sepehrnekooian.github.io/Math/index.getkey.html)
+## 🔗[Demo Math-3](https://sepehrnekooian.github.io/Math/index.recursive.html)
+## 🔗[Demo Math-4](https://sepehrnekooian.github.io/Math/index.return.html)
+## 🔗[Demo Math-5](https://sepehrnekooian.github.io/Math/index.return2.html)
+## 🔗[Demo Math-6](https://sepehrnekooian.github.io/Math/index.show.html)
 
 ## 👨‍💻 Developed By: Sepehr Nekooian
 
